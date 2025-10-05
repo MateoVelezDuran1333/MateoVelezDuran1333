@@ -9,18 +9,16 @@ Soy Ingeniero de Sistemas con interés en la investigación y desarrollo de solu
 ## 🧠 Áreas de interés
 - Aprendizaje supervisado y no supervisado  
 - Procesamiento de lenguaje natural (NLP)  
-- Visión por computadora  
 - Ingeniería de datos y automatización de pipelines  
 - Implementación de modelos en entornos productivos  
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Python, SQL, R  
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
+- **Lenguajes:** Python
+- **Machine Learning:** Scikit-learn, TensorFlow 
 - **Análisis de datos:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Infraestructura:** Docker, Git, FastAPI, Flask  
-- **Bases de datos:** PostgreSQL, MongoDB, DynamoDB  
 - **Otros:** AWS, Jupyter, MLflow, Streamlit  
 
 ---

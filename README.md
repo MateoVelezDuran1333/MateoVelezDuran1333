@@ -24,9 +24,8 @@ Soy Ingeniero de Sistemas con interés en la investigación y desarrollo de solu
 ---
 
 ## 📂 Proyectos destacados
-- 🔹 [Proyecto de Clasificación de Imágenes](https://github.com/usuario/proyecto1): Entrenamiento de modelos CNN para clasificación multiclase utilizando PyTorch.  
-- 🔹 [Análisis Predictivo de Datos de Ventas](https://github.com/usuario/proyecto2): Desarrollo de un modelo de regresión múltiple con Scikit-learn y visualización en Streamlit.  
-- 🔹 [API de Machine Learning con FastAPI](https://github.com/usuario/proyecto3): Implementación y despliegue de un modelo predictivo a través de una API RESTful.  
+- 🔹 [Computer Vision - Reconocimiento Lenguaje de señas](https://github.com/MateoVelezDuran1333/Computer-Vision-SignLanguageDetection): Desarrollo de un modelo de red neuronal con TensorFlow para el reconocimiento de lenguaje de señas usando Computer Vision
+- 🔹 [API de Machine Learning con FastAPI](https://github.com/MateoVelezDuran1333/StackOverflow-Predictions): Implementación y despliegue de un modelo predictivo para NLP a través de una API RESTful.  
 
 ---
 
@@ -36,14 +35,9 @@ Mi trabajo se orienta hacia el **diseño, entrenamiento e implementación de mod
 ---
 
 ## 📫 Contacto
-- ✉️ **Correo:** mateovelezduran@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/mateovelezduran](https://linkedin.com/in/mateovelezduran)  
-- 🌐 **Portafolio:** [mateovelezduran.github.io](https://mateovelezduran.github.io)  
+- ✉️ **Correo:** mateo.vele1333@outlook.com
 
 ---
-
-> “La inteligencia artificial no reemplaza a las personas, potencia su capacidad para resolver problemas de forma más eficiente.”
-
 ---
 
 ### 🌟 Gracias por visitar mi perfil

@@ -25,7 +25,8 @@ Soy Ingeniero de Sistemas con interés en la investigación y desarrollo de solu
 
 ## 📂 Proyectos destacados
 - 🔹 [Computer Vision - Reconocimiento Lenguaje de señas](https://github.com/MateoVelezDuran1333/Computer-Vision-SignLanguageDetection): Desarrollo de un modelo de red neuronal con TensorFlow para el reconocimiento de lenguaje de señas usando Computer Vision
-- 🔹 [API de Machine Learning con FastAPI](https://github.com/MateoVelezDuran1333/StackOverflow-Predictions): Implementación y despliegue de un modelo predictivo para NLP a través de una API RESTful.  
+- 🔹 [API de Machine Learning con FastAPI](https://github.com/MateoVelezDuran1333/StackOverflow-Predictions): Implementación y despliegue de un modelo predictivo para NLP a través de una API RESTful.
+- 🔹 [API de Machine Learning con FastAPI](https://github.com/MateoVelezDuran1333/Tom-Jerry-predictor): Implementación y despliegue de un modelo predictivo para predicción de imagenes a través de una API RESTful, también se usó MLFLOW.
 
 ---
 
